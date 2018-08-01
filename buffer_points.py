@@ -1,4 +1,4 @@
-# Script to buffer the points so they have a 90 metre diameter
+# Script to buffer the points so they have a 90 metre diameter.
 import arcpy
 # ===================
 # To be used in the Python Window in ArcMap
